@@ -32,18 +32,13 @@
 
 ### <p align="center">Hope to one day see
 
-  - I can imagine an application that is able to be given a problem and a set of
-parameters, such as "I want to ensure the availability of a resource, and the 
-available environment options are...' and will recommend possible configurations 
-ranked from most to least [ optimal | expensive | etc ]. Then once an option is
-chosen, the implementation is automated, and interesting metrics about the setup 
-are monitored so that the configuration of an infrastructure is responsive to the 
-ever-changing use of that infrastructure. I hope I get to work with something like 
-that one day.
+  - A process that recommends, builds, monitors, and dynamically adjusts an
+infrastructure based on stated user needs as well as usage metrics gleaned from
+observation of monitoring data.
 
 ***
 
-### <p align="center">how to contact
+### <p align="center">Contact Info
   - Yell, like, super loud</p>
 
 <!---
